@@ -1,0 +1,38 @@
+const colors = {
+  white: '#FFF',
+  black: '#000',
+  black100: '#3F3D56',
+  black200: '#35313D',
+  black300: '#1A1529',
+  black400: '#454447',
+  black500: '#262233',
+  black600: '#110D22',
+  black700: '#C4C2C7',
+  black800: '#1C1C1E',
+  grey100: '#F5F5F9',
+  grey200: '#F2F2F7',
+  grey300: '#F4F3F5',
+  grey400: '#AEAEB2',
+  grey500: '#8D8C90',
+  grey600: '#EAE8EC',
+  brand: '#FF0084', //make it brand
+  brandSecondary: '#FF6696', // brandSecondary
+  brand300: '#FFCCD2',
+  brand400: '#930078',
+  brand500: '#FF3F8F',
+  brand600: '#FF7EC1',
+  brand600: 'rgba(255, 0, 132, 0.15)',
+  lightBrand: '#EBD6D8',
+  darkPink: '#B70083',
+  blue: '#1E61E2',
+  blue100: '#2C74FF',
+  skyBlue: '#5BBCC9',
+  skyBlue100: '#308EB7',
+  red: '#FF0000',
+  red100: '#FE6682',
+  red200: '#E42346',
+  yellow100: '#FFD501',
+  yellow200: '#FF9C4B',
+};
+
+export default colors;

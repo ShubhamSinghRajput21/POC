@@ -1,0 +1,9 @@
+{
+  "integer": "{{field}} must be a non-decimal value.",
+  "invalid": "The {{field}} is not valid.",
+  "maxLength": "Your {{field}} must be shorter than {{value}} characters.",
+  "minLength": "{{field}} should be at least {{value}} characters.",
+  "numericRange": "{{field}} must be between {{min}} and {{max}}.",
+  "required": "{{field}} is required.",
+  "invalidOtp": "OTP should be {{value}} digits."
+}

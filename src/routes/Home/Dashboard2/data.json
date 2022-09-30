@@ -1,0 +1,22 @@
+{
+  "myBio":{
+    "title":"My Bio",
+    "message":"Hi i am teja, most dashing & handsome person ever. Single piece on the earth."
+  },
+  "myInterests":{
+    "title":"My interests",
+    "interests":["Music","Cricket","Travelling","Road trips" ,"Actions & Adventures","Movies"]
+  },
+  "aboutMe":{
+    "title":"About me",
+    "aboutMe":["Single","Vegetarian","Regularly","Socially","Active","Hindu","Leo","Dogs","Extrovert","Software Engineer, at Google.inc","Software Engineering, from IIT Madras","Bengaluru"]
+  },
+  "myInstagram":{
+    "title":"My instagram",
+    "array":[1,2,3,4,5]
+  },
+  "mySpotify":{
+    "title":"My spotify",
+    "array":[1,2,3,4,5]
+  }
+}
